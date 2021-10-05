@@ -1,4 +1,4 @@
-# Dummy_Template for CP
+# Template for CP
 ```C++
 #include <bits/stdc++.h>
 using namespace std;
